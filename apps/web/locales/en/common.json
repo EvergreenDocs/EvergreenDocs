@@ -1,65 +1,65 @@
 {
-  "value-proposition": "Keep your documentation green and fresh",
-  "app-description": "Effortlessly manage and maintain documentation with Evergreen Docs - the Github App that automates updates, generates READMEs, translates docs, and keeps a changelog, all based on contextual data from your repository.",
-  "signup-button": "Sign up",
-  "login-button": "Log in",
-  "logout-button": "Log out",
-  "gotoapp-button": "Go to app",
-  "get-started-button": "Get started",
-  "install-app-button": "Install App",
-  "month": "for first 100 users",
+  "value-proposition": "Gardez votre documentation actuelle et fraîche",
+  "app-description": "Gérez et maintenez votre documentation sans effort avec Evergreen Docs - l'application Github qui automatise les mises à jour, génère des README, traduit les docs et tient un journal des modifications, le tout en fonction des données contextuelles de votre dépôt.",
+  "signup-button": "S'inscrire",
+  "login-button": "Se connecter",
+  "logout-button": "Se déconnecter",
+  "gotoapp-button": "Aller à l'appli",
+  "get-started-button": "Commencer",
+  "install-app-button": "Installer l'application",
+  "month": "pour les 100 premiers utilisateurs",
   "pricing": {
-    "title": "Pricing",
-    "value-proposition": "Limited time offer for early adopters",
-    "description": "Users save significant time and effort by automating the writing of documentation, allowing them to focus on more important tasks and minimize the hassle of writing and maintaining documentation.",
+    "title": "Tarification",
+    "value-proposition": "Offre limitée dans le temps pour les premiers adoptants",
+    "description": "Les utilisateurs économisent un temps et un effort considérables en automatisant la rédaction de la documentation, ce qui leur permet de se concentrer sur des tâches plus importantes et de minimiser la difficulté d'écrire et de maintenir la documentation.",
     "features": [
-      "Unlimited projects",
-      "Unlimited users",
-      "Translate your documentation",
-      "i18n support"
+      "Projets illimités",
+      "Utilisateurs illimités",
+      "Traduisez votre documentation",
+      "Prise en charge i18n"
     ]
   },
   "auth": {
     "create": {
-      "account1": "Create your account",
-      "account2": "to continue to"
+      "account1": "Créez votre compte",
+      "account2": "pour continuer à utiliser"
     },
-    "continue-with-github": "Continue with GitHub"
+    "continue-with-github": "Continuer avec GitHub"
   },
   "privacyPolicy": {
-    "title": "Privacy Policy",
-    "description": "Evergreen is committed to protecting the privacy of its users. This Privacy Policy explains how we collect, use, and disclose information about our users. By using Evergreen, you agree to the terms of this Privacy Policy.",
+    "title": "Politique de confidentialité",
+    "description": "Evergreen s'engage à protéger la vie privée de ses utilisateurs. Cette politique de confidentialité explique comment nous collectons, utilisons et divulguons des informations sur nos utilisateurs. En utilisant Evergreen, vous acceptez les modalités de cette politique de confidentialité.",
     "sections": [
       {
-        "title": "How we use your information",
+        "title": "Comment nous utilisons vos informations",
         "points": [
-          "User information: We collect information such as your name, email address, and Github username when you sign up for our service.",
-          "Repository information: We collect repository information from your Github account in order to provide our service. This includes repository names, descriptions, and other metadata. We don’t store any of your code or any other intellectual property.",
-          "Usage data: We collect usage data such as how often you use our service, and what features you use the most. We use this information to improve our service."
+          "Informations utilisateur: Nous collectons des informations telles que votre nom, votre adresse e-mail et votre nom d'utilisateur Github lorsque vous vous inscrivez à notre service.",
+          "Informations de dépôt: Nous collectons des informations sur les dépôts de votre compte Github afin de fournir notre service. Cela inclut les noms de dépôts, les descriptions et autres métadonnées. Nous ne stockons aucun de vos codes ou autre propriété intellectuelle.",
+          "Données d'utilisation: Nous collectons des données d'utilisation telles que la fréquence à laquelle vous utilisez notre service et les fonctionnalités que vous utilisez le plus. Nous utilisons ces informations pour améliorer notre service."
         ]
       },
       {
-        "title": "Information We Collect",
-        "description": "We use your information to provide and improve our service, and to communicate with you. Specifically, we use your information to:",
+        "title": "Informations que nous collectons",
+        "description": "Nous utilisons vos informations pour fournir et améliorer notre service et pour communiquer avec vous. Plus précisément, nous utilisons vos informations pour:",
         "points": [
-          "Create pull requests on your repositories to keep documentation up to date and perform other maintenance using AI.",
-          "Send you notifications about changes to your repositories.",
-          "Analyse how you use our service to improve it.",
-          "Communicate with you about our service and any updates.",
-          "Respond to any support requests or inquiries."
+          "Créer des demandes de tirage (pull requests) sur vos dépôts pour maintenir à jour la documentation et effectuer d'autres tâches de maintenance à l'aide de l'IA.",
+          "Vous envoyer des notifications sur les modifications apportées à vos dépôts.",
+          "Analyser votre utilisation de notre service pour l'améliorer.",
+          "Communiquer avec vous au sujet de notre service et de toutes les mises à jour.",
+          "Répondre à toute demande ou demande d'assistance."
         ]
       },
       {
-        "title": "Data Security",
-        "description": "We take data security very seriously, and we take steps to protect your information. We use industry-standard encryption to protect your information in transit, and we store your information in secure data centers with access controls and monitoring in place."
+        "title": "Sécurité des données",
+        "description": "Nous prenons très au sérieux la sécurité des données et nous prenons des mesures pour protéger vos informations. Nous utilisons un cryptage standard de l'industrie pour protéger vos informations en transit, et nous stockons vos informations dans des centres de données sécurisés avec des contrôles d'accès et de surveillance en place."
       },
       {
-        "title": "Data Security",
-        "description": "We do not share your personal information with any third parties, except as required by law or as necessary to provide our service."
+        "title": "Partage des données",
+        "description": "Nous ne partageons pas vos informations personnelles avec des tiers, sauf si la loi l'exige ou si cela est nécessaire pour fournir notre service."
       },
       {
-        "title": "Changes to this Policy",
-        "description": "If you have any questions about our privacy policy or how we collect and use your information, please contact us at "
+        "title": "Modification de cette politique",
+        "description": "Si vous avez des questions sur notre politique de confidentialité ou sur la manière dont nous collectons et utilisons vos informations, veuillez nous contacter à l'adresse"
       }
     ]
   }
